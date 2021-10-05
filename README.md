@@ -1,6 +1,6 @@
 Childhood Stolen
 
-A 2D game created for a university project during the course of C++ language. It was made with the Simple Game Graphics Library (SGG) (https://cgaueb.github.io/sgg/).
+A 2D game I created all by myself for a university project during the course of C++ language. It was made with the Simple Game Graphics Library (SGG) (https://cgaueb.github.io/sgg/). Only my part of the code is uploaded (just plain and pure code)!
 
 Concept inspired by Heaven Shall Burn's music video "Combat" (https://www.youtube.com/watch?v=2jCd-KTTR_I). Almost all assets are cropped by frames of that video.
 
